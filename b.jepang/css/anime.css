@@ -1,0 +1,11 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-image: url(../img/gojo.jpg);
+  background-size: cover;
+}
+
+#projects {
+  justify-content: center;
+  background-image: url(../img/jujutsu.jpg);
+  background-size: cover;
+}
